@@ -1,0 +1,425 @@
+[
+    {
+        "id": "1",
+        "Domain": "Linux CheatSheet",
+        "Link": "https://cheatography.com/davechild/cheat-sheets/linux-command-line/"
+    },
+    {
+        "id": "2",
+        "Domain": "Python CheatSheet",
+        "Link": "https://www.pythoncheatsheet.org/cheatsheet/basics"
+    },
+    {
+        "id":"3",
+        "Domain":"Command Line CheatSheet",
+        "Link": "https://www.learnenough.com/command-line-tutorial"
+    },
+    {
+        "id":"4",
+        "Domain":"Software Engineering Tips and Tricks",
+        "Link":"https://www.freecodecamp.org/news/tag/blog/"
+    },
+    {
+        "id":"5",
+        "Domain":"VS Code Shortcuts",
+        "Link":"https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"
+    },
+    {
+        "id":"6",
+        "Domain":"Hypertext Markup Language (HTML)",
+        "Link":"https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf"
+    },
+    {
+        "id":"7",
+        "Domain":"Cascading style sheet (CSS)",
+        "Link":"https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf"
+    },
+    {
+        "id":"8",
+        "Domain":"Javascript",
+        "Link":"https://htmlcheatsheet.com/js/"
+    },
+    {
+        "id":"9",
+        "Domain":"Javascript String, Array and Object Methods ",
+        "Link":"https://cheatography.com/anas-95/cheat-sheets/javascript-object-methods/"
+    },
+    {
+        "id":"10",
+        "Domain":"Git",
+        "Link":"https://education.github.com/git-cheat-sheet-education.pdf"
+    },
+    {
+        "id":"11",
+        "Domain":"React.js",
+        "Link":"https://devhints.io/react"
+    },
+    {
+        "id":"12",
+        "Domain":"Bootstrap 4",
+        "Link":"https://hackerthemes.com/bootstrap-cheatsheet/"
+    },
+    {
+        "id":"13",
+        "Domain":"Bootstrap 5",
+        "Link":"https://bootstrap-cheatsheet.themeselection.com/"
+    },
+    {
+        "id":"14",
+        "Domain":"Dart",
+        "Link":"https://quickref.me/dart"
+    },
+    {
+        "id":"15",
+        "Domain":"Java Programming",
+        "Link":"https://introcs.cs.princeton.edu/java/11cheatsheet/"
+    },
+    {
+        "id":"16",
+        "Domain":"C Programming",
+        "Link":"https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/"
+    },
+    {
+        "id":"17",
+        "Domain":"Backend (Node and Express)",
+        "Link":"https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf"
+    },
+    {
+        "id":"18",
+        "Domain":"Python Complete cheatsheet for Data Science",
+        "Link":"https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf"
+    },
+    {
+        "id":"19",
+        "Domain":"HTML5 interactive CheatSheet",
+        "Link":"https://htmlcheatsheet.com/"
+    },
+    {
+        "id":"20",
+        "Domain":"CSS3 interactive CheatSheet",
+        "Link":"https://htmlcheatsheet.com/css/"
+    },
+    {
+        "id":"21",
+        "Domain":"JavaScript interactive CheatSheet",
+        "Link":"https://htmlcheatsheet.com/js/"
+    },
+    {
+        "id" : "22",
+        "Domain" : "Microsoft word Cheatsheet",
+        "Link" : "https://in.pinterest.com/pin/10203536646163666/"
+    },
+    {
+        "id" : "23",
+        "Domain" : "Microsoft Excel Cheatsheet",
+        "Link" : "https://excelexposure.com/excel-shortcuts-cheat-sheet/"
+    },
+    {
+        "id" : "24",
+        "Domain" : "Kotlin cheatsheet",
+        "Link" : "https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a"
+    },
+    {
+        "id" : "25",
+        "Domain" : "Swift CheatSheet for (OOPS)",
+        "Link" : "https://weimenglee.blogspot.com/2014/11/swift-cheat-sheets-download-today.html?m=1"
+
+    },
+    {
+        "id"  : "26",
+        "Domain" : "Command line Cheatsheet",
+        "Link" : "https://www.git-tower.com/learn/cheat-sheets/cli/"
+    },
+    {
+        "id"  : "23",
+        "Domain" : "Microservices",
+        "Link" : "https://cheatsheetseries.owasp.org/cheatsheets/Microservices_security.html"
+    },
+    {
+        "id"  : "24",
+        "Domain" : "iOS 16 cheat sheet",
+        "Link" : "https://www.techrepublic.com/article/ios-16-cheat-sheet/"
+    },
+    {
+        "id"  : "25",
+        "Domain" : "jQuery",
+        "Link" : "https://makeawebsitehub.com/jquery-mega-cheat-sheet/"
+    },
+    {
+        "id"  : "26",
+        "Domain" : "Node.js",
+        "Link" : "https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf"
+    },
+    {
+        "id":"27",
+        "Domain":"Jenkins CheatSheet",
+        "Link":"https://www.edureka.co/blog/cheatsheets/jenkins-cheat-sheet/"
+    },
+    {
+        "id":"28",
+        "Domain":"UI/UX CheatSheet",
+        "Link":"https://zerotomastery.io/cheatsheets/ui-ux-design-cheat-sheet/"
+    },
+    {
+        "id":"29",
+        "Domain":"Bootstrap CheatSheet",
+        "Link":"https://hackerthemes.com/bootstrap-cheatsheet/"
+    },
+    {
+        "id":"30",
+        "Domain":"UI/UX CheatSheet",
+        "Link":"https://education.github.com/git-cheat-sheet-education.pdf"
+    },
+    {
+        "id":"31",
+        "Domain":"Angular CheatSheet",
+        "Link":"https://www.interviewbit.com/angular-cheat-sheet/"
+    },
+    {
+        "id":"32",
+        "Domain":"RESTful API CheatSheet",
+        "Link":"https://devhints.io/rest-api"
+    },
+    {
+        "id":"33",
+        "Domain":"Cassandra Apache CheatSheet",
+        "Link":"https://www.baeldung.com/cassandra-query-cheat-sheet"
+    },
+    {
+        "id":"34",
+        "Domain":"Data Structure and Algorithms CheatSheet",
+        "Link":"https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/"
+    },
+    {
+        "id":"35",
+        "Domain":"Machine Algorithms CheatSheet",
+        "Link":"https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet"
+    },
+    {
+        "id":"36",
+        "Domain":"Data Science CheatSheet",
+        "Link":"https://medium.com/@anushka.datascoop/101-data-science-cheat-sheets-ml-dl-scraping-python-r-sql-maths-statistics-ef30b4d786eb"
+    },
+    {
+        "id":"37",
+        "Domain":"Terraform CheatSheet",
+        "Link":"https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet"
+    },
+    {
+        "id":"38",
+        "Domain":"Terraform CheatSheet",
+        "Link":"https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet"
+    },
+    {
+        "id":"39",
+        "Domain":"GoLang CheatSheet",
+        "Link":"https://devhints.io/go"
+    },
+    {
+        "id":"40",
+        "Domain":"Vim CheatSheet",
+        "Link":"https://devhints.io/vim"
+    },
+    {
+        "id":"41",
+        "Domain":"DevOps GitLab CI CheatSheet",
+        "Link":"https://medium.com/open-devops-academy/cheat-sheet-for-devops-gitlab-ci-yml-gitlab-2ffbf0c4f7ac"
+    },
+    {
+        "id"  : "42",
+        "Domain" : "Express.js",
+        "Link" : "https://devhints.io/express"
+    },
+    {
+        "id"  : "43",
+        "Domain" : "SEO cheat sheet for developers",
+        "Link" : "https://d2v4zi8pl64nxt.cloudfront.net/seo-cheat-sheet.pdf"
+    },
+    {
+        "id"  : "44",
+        "Domain" : "Julia",
+        "Link" : "https://juliadocs.github.io/Julia-Cheat-Sheet/"
+    },
+    {
+        "id"  : "45",
+        "Domain" : "MATLAB",
+        "Link" : "https://www.cs.cmu.edu/~tom/10601_fall2012/recitations/matlab_quickref.pdf"
+    },
+    {
+        "id"  : "46",
+        "Domain" : "SQL CheatSheet",
+        "Link" : "https://www.interviewbit.com/sql-cheat-sheet/"
+    },
+    {
+        "id"  : "47",
+        "Domain" : "DBMS CheatSheet",
+        "Link" : "https://www.geeksforgeeks.org/last-minute-notes-dbms/"
+    },
+    {
+        "id"  : "48",
+        "Domain" : "JAVA OOP CheatSheet",
+        "Link" : "https://www.edureka.co/blog/cheatsheets/java-oop-cheat-sheet/"
+    },
+    {
+        "id"  : "49",
+        "Domain" : "Unsupervised Learning CheatSheet",
+        "Link" : "https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning"
+    },
+    {
+        "id"  : "50",
+        "Domain" : "Deep Learning CheatSheet",
+        "Link" : "https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning"
+    },
+    {
+        "id"  : "51",
+        "Domain" : "Supervised Learning CheatSheet",
+        "Link" : "https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning"
+    },
+    {
+        "id"  : "52",
+        "Domain" : "Descriptive Statistics CheatSheet",
+        "Link" : "https://www.datacamp.com/cheat-sheet/descriptive-statistics-cheat-sheet"
+    },
+    {
+        "id"  : "53",
+        "Domain" : "STAT301 CheatSheet",
+        "Link" : "https://web.stat.tamu.edu/~suhasini/teaching301/cheatsheet.pdf"
+    },
+    {
+        "id"  : "54",
+        "Domain" : "Mongoose",
+        "Link" : "https://mongoosejs.com/docs/guide.html"
+    },
+    {
+        "id"  : "55",
+        "Domain" : "Mongodb",
+        "Link" : "https://www.interviewbit.com/mongodb-cheat-sheet/"
+    },
+    {
+        "id"  : "56",
+        "Domain" : "C++ Programming",
+        "Link" : "https://hackr.io/blog/cpp-cheat-sheet-pdf"
+    },
+    {
+        "id"  : "57",
+        "Domain" : "PostgreSQL",
+        "Link" : "https://www.postgresqltutorial.com/postgresql-cheat-sheet/"
+    },
+    {
+        "id"  : "58",
+        "Domain" : "Postman",
+        "Link" : "https://postman-quick-reference-guide.readthedocs.io/en/latest/cheatsheet.html"
+    },
+    {
+        "id"  : "59",
+        "Domain" : "Vue",
+        "Link" : "https://devhints.io/vue"
+    },
+    {
+        "id"  : "60",
+        "Domain" : "Tailwind",
+        "Link" : "https://nerdcave.com/tailwind-cheat-sheet"
+    },
+    {
+        "id"  : "61",
+        "Domain" : "Redis",
+        "Link" : "https://lzone.de/cheat-sheet/Redis"
+    },
+    {
+        "id"  : "62",
+        "Domain" : "Bash",
+        "Link" : "https://devhints.io/bash"
+    },
+    {
+        "id"  : "63",
+        "Domain" : "Keyboard Shortcuts",
+        "Link" : "https://www.geek-computer.com/wiki/windows-10-keyboard-shortcuts-cheat-sheet"
+    },
+    {
+        "id"  : "64",
+        "Domain" : "Azure Devops Cheatsheet",
+        "Link" : "https://lzone.de/cheat-sheet/Azure%20Devops"
+    },
+    {
+        "id"  : "65",
+        "Domain" : "Microsoft Powerpoint Shortcut Keys",
+        "Link" : "https://support.microsoft.com/en-us/office/use-keyboard-shortcuts-to-create-powerpoint-presentations-ebb3d20e-dcd4-444f-a38e-bb5c5ed180f4"
+    },
+    {
+        "id"  : "66",
+        "Domain" : "Adobe Illustrator Keyboard Shortcuts",
+        "Link" : "https://helpx.adobe.com/in/illustrator/using/default-keyboard-shortcuts.html"
+
+    },
+    {
+        "id"  : "67",
+        "Domain" : "Ios 16",
+        "Link" : "https://helpx.adobe.com/in/illustrator/using/default-keyboard-shortcuts.html"
+    },
+    {
+        "id"  : "68",
+        "Domain" : "Ios 15",
+        "Link" : "https://helpx.adobe.com/in/illustrator/using/default-keyboard-shortcuts.html"
+    },
+    {
+        "id"  : "69",
+        "Domain" : "Android 10 ",
+        "Link" : "https://helpx.adobe.com/in/illustrator/using/default-keyboard-shortcuts.html"
+    },
+    {
+        "id"  : "70",
+        "Domain" : "Sql",
+        "Link" : "https://helpx.adobe.com/in/illustrator/using/default-keyboard-shortcuts.html"
+    },
+        {
+        "id"  : "71",
+        "Domain" : "R Cheatsheet",
+        "Link" : "https://www.datacamp.com/cheat-sheet/getting-started-r"
+    },
+    {
+        "id"  : "72",
+        "Domain" : "Operating System Cheatsheet",
+        "Link" : "https://www.codecademy.com/learn/fundamentals-of-operating-systems/modules/introduction-to-operating-systems/cheatsheet"
+    },   
+    {
+        "id"  : "73",
+        "Domain" : "Spyder Keyboard Shortcuts",
+        "Link" : "https://keycombiner.com/collections/spyder/"
+    },
+    {
+        "id"  : "74",
+        "Domain" : "Figma Keyboard Shortcuts",
+        "Link" : "https://usethekeyboard.com/figma/"
+    },
+    {
+        "id"  : "75",
+        "Domain" : "AWS CheatSheet",
+        "Link" : "https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat-sheet/"
+    },
+    {
+        "id"  : "76",
+        "Domain" : "Google Cloud CheatSheet",
+        "Link" : "https://googlecloudcheatsheet.withgoogle.com/"
+    },
+    {
+        "id"  : "77",
+        "Domain" : "C#",
+        "Link" : "https://simplecheatsheet.com/tag/c-cheat-sheet-1/"
+    },
+    {
+        "id"  : "78",
+        "Domain" : "Solidity",
+        "Link" : "https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg"
+    },
+    {
+        "id"  : "79",
+        "Domain" : "Markdown",
+        "Link" : "https://www.markdownguide.org/cheat-sheet/"
+    },
+    {
+        "id"  : "80",
+        "Domain" : "Markdown",
+        "Link" : "http://www.cheat-sheets.org/saved-copy/RubyCheat.pdf"
+    },
+    
+]

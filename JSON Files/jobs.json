@@ -1,0 +1,197 @@
+[
+    {
+        "id": "1",
+        "JobRole": "Sofware Developer",
+        "JobDescription": "A Software Developer is generally responsible for the development, design and implementation of new or modified software products or ongoing business projects."
+    },
+    {
+        "id": "2",
+        "JobRole": "Front-end developer",
+        "JobDescription": " A front-end developer is responsible for planning, designing and developing websites. Using a variety of markup languages, they create aesthetic websites that are functional and consistent in design."
+    },
+    {
+        "id": "3",
+        "JobRole": "System Engineer",
+        "JobDescription": " System engineers are responsible for the installation, configuration and testing of operating systems. They evaluate existing systems to ensure structural integrity"
+    },
+    {
+        "id": "4",
+        "JobRole": "IT consultant ",
+        "JobDescription": "an IT consultant advises clients on the planning, design, installation and usage of information technology systems to meet their business objectives, overcome problems or improve the structure and efficiency of their IT systems"
+    },
+    {
+        "id": "5",
+        "JobRole": "Games developer",
+        "JobDescription": "Games developers produce games for personal computers, games consoles, social/online games, arcade games, tablets, mobile phones and other hand-held devices."
+    },
+    {
+        "id": "6",
+        "JobRole": "Machine Learning Engineer",
+        "JobDescription": "As a Machine Learning Engineer, it will be your job to build and deploy ML systems that can automatically learn and improve independently."
+    },
+    {
+        "id": "7",
+        "JobRole": "Data Engineer",
+        "JobDescription": "Data Engineer role is to develop and maintain large and complex databases as well as large-scale data processing systems. As a key member of analytics or engineering teams, a data engineer must be comfortable working collaboratively. This role requires comprehensive knowledge of query and database skills."
+    },
+    {
+        "id": "8",
+        "JobRole": "UX Design",
+        "JobDescription": "A UX Designer is a professional responsible for turning applications into something that people enjoy using. They do this by studying the user experience and measuring how easy it is to complete tasks in an efficient manner while improving ease-of-use capabilities through many different approaches."
+    },
+    {
+        "id": "9",
+        "JobRole": "Graphic Gesign",
+        "JobDescription": "Graphic designers use computers or hand tools to create posters, websites, logos, brochures, magazines and many other materials to communicate ideas and information visually. They are sometimes called graphic artists."
+    },
+    {
+        "id": "10",
+        "JobRole": "Digital Marketing",
+        "JobDescription": "Primarily, a digital marketer is in charge of all the digital channels and uses them to drive brand awareness and generate leads. That is to say, a digital marketer's roles and responsibilities involve overseeing and development of the overall content strategy for an enterprise, as well as marketing campaigns."
+    },
+    {
+        "id": "11",
+        "JobRole": "Network Administrator",
+        "JobDescription": "The Network Administrator's role is to ensure the stable operation of the computer networks. This includes planning, developing, installing, configuring, maintaining, supporting, and optimizing all network hardware, software, and communication links."
+    },
+    {
+        "id": "12",
+        "JobRole": "Database Administrator",
+        "JobDescription": "Database Administrators ensure that the databases run efficiently and securely. For example, they create or organize systems to store different data types, such as financial information and customer shipping records. They also make sure authorized users can access this information when needed."
+    },
+    {
+        "id": "13",
+        "JobRole": "Cloud engineer",
+        "JobDescription": "Cloud engineers research and implement ways to transfer a company's existing infrastructure to cloud-based systems. Cloud systems are remote servers that store and manage data. These professionals also maintain that data and information once they move it to the new system."
+    },
+    {
+        "id": "14",
+        "JobRole": "Solutions Architect",
+        "JobDescription": "A solutions architect creates the overall technical vision for a specific solution to a business problem. They design, describe, and manage the solution."
+    },
+    {
+        "id": "15",
+        "JobRole": "DevOps engineer",
+        "JobDescription": "A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment."
+    },
+    {
+        "id": "16",
+        "JobRole": "Application Engineer",
+        "JobDescription": "An Application Engineer is a professional who develops customized software programs for clients and collaborates with development teams to create complex and sophisticated software applications."
+    },
+    {
+        "id": "17",
+        "JobRole": "Data Analyst",
+        "JobDescription": "A data analyst reviews data to identify key insights into a business's customers and ways the data can be used to solve problems. They also communicate this information to company leadership and other stakeholders."
+    },
+    {
+        "id": "18",
+        "JobRole": "Test engineer",
+        "JobDescription": "A test engineer is a professional who determines how to create a process that would best test a particular product in manufacturing and related disciplines, in order to assure that the product meets applicable specifications."
+    },
+    {
+        "id": "19",
+        "JobRole": "IT manager",
+        "JobDescription": "IT managers are responsible for coordinating, planning, and leading computer-related activities in an organization. They help determine the IT needs of an organization and are responsible for implementing computer systems to fulfill the organization's information systems requirements."
+    },
+    {
+        "id": "20",
+        "JobRole": "Digital manager",
+        "JobDescription": "A Digital Strategy Manager is an executive position. This position is based on a unique set of technological knowledge which directs all departments for digital industry growth."
+    },
+    {
+        "id": "21",
+        "JobRole": "Security Engineer",
+        "JobDescription": " A Security Engineer, or Security Administrator, handles the digital security for their company or clients."
+    },
+    {
+        "id": "22",
+        "JobRole": "Technical Support Engineer",
+        "JobDescription": " A  Technical Support Engineer, also known as an IT support engineer, helps in resolving technical issues within different components of computer systems, such as software, hardware, and other network-related IT related problems."
+    },
+    {
+        "id": "23",
+        "JobRole": "Area Engineer",
+        "JobDescription": " A few of the main duties of a area engineer are conducting research, installing new technologies, monitoring activities at the assigned area, and doing quality control work. They also have to create reports of the area to ensure that all requirements are being met."
+    },
+    {
+        "id": "24",
+        "JobRole": "Site Engineer",
+        "JobDescription": " The site engineer's responsibilities include managing different parts of construction projects, supervising crew members, preparing estimates for time and material costs, completing quality assurance, observing health and safety standards, and compiling reports for different stakeholders."
+    },
+    {
+        "id": "25",
+        "JobRole": " Design Evangelist",
+        "JobDescription": "The path to a CEO’s office needs to be through engineering and design”. If you believe in the above quote and have an eye for detail and a relentless pursuit to churn out great designs, then this role will excite you"
+    },
+    {
+        "id": "26",
+        "JobRole": "Junior Blockchain Developer  ",
+        "JobDescription": "Build high-quality software For ethereum / hyperledger in Go / Solidity / JavaScript / Python on a daily basis. Make the crypto software ."
+    },
+    {
+        "id": "27",
+        "JobRole": "Executive- Business Development  ",
+        "JobDescription": "To read the tenders documents and apply for that; Maintain good relationship with the clients for getting better business; Prepare / maintain the data of clients & Valuations database for the past projects done by the company; Secondary research and Data Analysis."
+    },
+    {
+        "id": "28",
+        "JobRole": "Data engineer ",
+        "JobDescription": "The role a Data Engineer is to collect data from all sources and apply various method to take out the best possible result."
+    },
+    {
+        "id": "29",
+        "JobRole": " Buisness Analyst",
+        "JobDescription": "A Business Analyst is a professional who works closely with stakeholders to identify goals, develop best practices for data collection, and analyze current processes to determine what can be improved to achieve their desired outcome."
+    },
+    {
+        "id": "30",
+        "JobRole": "Digital manager",
+        "JobDescription": "A Digital Strategy Manager is an executive position. This position is based on a unique set of technological knowledge which directs all departments for digital industry growth."
+    },
+    {
+        "id": "31",
+        "JobRole": "Sofware Developer and Engineer -Test ",
+        "JobDescription": "The Senior Software Development Test Engineer (SDET) helps deliver the quality and performance of large scale, big data, custom hardware multi-platform software products that includes; web, API and mobile application interfaces."
+    },
+    {
+        "id": "32",
+        "JobRole": "Full-stack developer",
+        "JobDescription": "A Full-Stack developer is a professional responsible for working on both front-end and back-end development processes. They design, develop, and maintain fully-fledged and functioning platforms with databases or servers. These servers do not need other third-party applications to build an entire system from scratch."
+    },
+    {
+        "id": "33",
+        "JobRole": "Web Designer",
+        "JobDescription": "Web designers develop, design, and code websites and web pages, many of which include text, audio, images, graphics, and video clips."
+    },
+    {
+        "id": "34",
+        "JobRole": "Chief Technology Officer",
+        "JobDescription": "A chief technology officer (CTO) is a senior executive who is in charge of overseeing the whole information technology department and integrating business goals and requirements into IT planning and operations."
+    },
+    {
+        "id": "35",
+        "JobRole": "Network Administrator",
+        "JobDescription": "Network administrators oversee the operation and maintenance of hardware, software, computer infrastructures, and complete information systems."
+    },
+    {
+        "id": "36",
+        "JobRole": "Electrial engineer ",
+        "JobDescription": "Electrical engineers design, develop, test, and supervise the manufacture of electrical equipment, such as electric motors, radar and navigation systems, communications systems, or power generation equipment"
+    },
+    {
+        "id": "37",
+        "JobRole": "Electronics engineer",
+        "JobDescription": "Electronics engineers design and develop electronic equipment, including broadcast and communications systems, such as portable music players and Global Positioning System (GPS) devices."
+    },
+    {
+        "id": "38",
+        "JobRole": "Telecom equipment engineer",
+        "JobDescription": "A telecommunication engineer is responsible for designing and overseeing the installation of telecommunications equipment and facilities, such as complex electronic switching systems, and other plain old telephone service facilities, optical fiber cabling, IP networks, and microwave transmission systems.."
+    },
+    {
+        "id": "39",
+        "JobRole": "Central office engineer",
+        "JobDescription": "Prepare detailed plans for assigned tasks. Perform engineering design and analysis calculations pertaining to and in support of detailed plans."
+    }
+]

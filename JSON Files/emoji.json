@@ -1,0 +1,322 @@
+[
+    {
+        "emoji-id": "1",
+        "emoji":  "💘",
+        "emoji-name": "Heart with Arrow"
+    },
+    {
+        "emoji-id": "2", 
+        "emoji":  "💝",
+        "emoji-name": "Heart with Ribbon"
+    },
+    {
+        "emoji-id": "3",  
+        "emoji":  "💖",
+        "emoji-name": "Sparkling Heart"
+    },
+    {
+        "emoji-id": "4",  
+        "emoji":  "💗",
+        "emoji-name": "Growing Heart"
+    },
+    {
+        "emoji-id": "5",  
+        "emoji":  "💓",
+        "emoji-name": "Beating Heart"
+    },
+    {
+        "emoji-id": "6",  
+        "emoji":  "💞",
+        "emoji-name": "Revolving Hearts"
+    },
+    {
+        "emoji-id": "7",   
+        "emoji":  "💕",
+        "emoji-name": "Two Hearts"
+    },
+    {
+        "emoji-id": "8",   
+        "emoji":  "💟",
+        "emoji-name": "Heart Decoration"
+    },
+    {
+        "emoji-id": "9",   
+        "emoji":  "❣️",
+        "emoji-name": "Heart Exclamation"
+    },
+    {
+        "emoji-id": "10",   
+        "emoji":  "💔",
+        "emoji-name": "Broken Heart"
+    },
+    {
+        "emoji-id": "11",   
+        "emoji":  "❤️‍🔥",
+        "emoji-name": "Heart on Fire"
+    },
+    {
+        "emoji-id": "13",   
+        "emoji":  "❤️‍🩹",
+        "emoji-name": "Mending Heart"
+    },
+    {
+        "emoji-id": "14",   
+        "emoji":  "❤️",
+        "emoji-name": "Red Heart"
+    },
+    {
+        "emoji-id": "15",   
+        "emoji":  "🧡",
+        "emoji-name": "Orange Heart"
+    },
+    {
+        "emoji-id": "16",   
+        "emoji":  "💛",
+        "emoji-name": " Yellow Heart"
+    },
+    {
+        "emoji-id": "17",   
+        "emoji":  "💚",
+        "emoji-name": "Green Heart"
+    },
+    {
+        "emoji-id": "18",   
+        "emoji":  "💙",
+        "emoji-name": "Blue Heart"
+    },
+    {
+        "emoji-id": "19",   
+        "emoji":  "💜",
+        "emoji-name": "Purple Heart"
+    },
+    {
+        "emoji-id": "20",   
+        "emoji":  "🤎",
+        "emoji-name": "Brown Heart"
+    },
+    {
+        "emoji-id": "21",   
+        "emoji":  "🖤",
+        "emoji-name": "Black Heart"
+    },
+    {
+        "emoji-id": "23",   
+        "emoji":  "🤍",
+        "emoji-name": "White Heart"
+    },
+    {
+        "emoji-id": "24",   
+        "emoji":  "🔴",
+        "emoji-name": "Red Circle"
+    },
+    {
+        "emoji-id": "25",   
+        "emoji":  "🟠",
+        "emoji-name": "Orange Circle"
+    },
+    {
+        "emoji-id": "26",   
+        "emoji":  "🟡",
+        "emoji-name": "Yellow Circle"
+    },
+    {
+        "emoji-id": "27",   
+        "emoji":  "🟢",
+        "emoji-name": "Green Circle"
+    },
+    {
+        "emoji-id": "28",   
+        "emoji":  "🔵",
+        "emoji-name": "Blue Circle"
+    },
+    {
+        "emoji-id": "29",   
+        "emoji":  "🟣",
+        "emoji-name": "Purple Circle"
+    },
+    {
+        "emoji-id": "30",   
+        "emoji":  "🟤",
+        "emoji-name": "Brown Circle"
+    },
+    {
+        "emoji-id": "31",   
+        "emoji":  "⚫",
+        "emoji-name": "Black Circle"
+    },
+    {
+        "emoji-id": "32",   
+        "emoji":  "🏕️",
+        "emoji-name": "Camping"
+    },
+    {
+        "emoji-id": "33",   
+        "emoji":  "✨",
+        "emoji-name": "Sparkles"
+    },
+      {
+        "emoji-id": "34",   
+        "emoji":  "🗼",
+        "emoji-name": "Tokyo Tower"
+    },
+      {
+        "emoji-id": "35",   
+        "emoji":  "🗽",
+        "emoji-name": "Statue-of-liberty"
+    },
+      {
+        "emoji-id": "36",   
+        "emoji":  "🛕",
+        "emoji-name": "Temple"
+    },
+      {
+        "emoji-id": "37",   
+        "emoji":  "🎡",
+        "emoji-name": "Ferris-wheel"
+    },
+      {
+        "emoji-id": "38",   
+        "emoji":  "🪐",
+        "emoji-name": "Saturn"
+    },
+     {
+        "emoji-id": "39",   
+        "emoji":  "🚢",
+        "emoji-name": "Ship"
+    },
+     {
+        "emoji-id": "40",   
+        "emoji":  "⛴️",
+        "emoji-name": "Ferry"
+    },
+    {
+        "emoji-id": "41",   
+        "emoji":  "😺",
+        "emoji-name": "Grinning Cat"
+    },
+    {
+        "emoji-id": "42",   
+        "emoji":  "😽",
+        "emoji-name": "Kissing Cat"
+    },
+    {
+        "emoji-id": "43",   
+        "emoji":  "😹",
+        "emoji-name": "Laughing Cat"
+    },
+    {
+        "emoji-id": "44",   
+        "emoji":  "😿",
+        "emoji-name": "Crying Cat"
+    },
+    {
+        "emoji-id": "45",   
+        "emoji":  "🙀",
+        "emoji-name": "Weary Cat"
+    }  ,
+    {
+        "emoji-id": "46",   
+        "emoji":  "😨",
+        "emoji-name": "Fearful Face"
+    },
+    {
+        "emoji-id": "47",   
+        "emoji":  "😈",
+        "emoji-name": "Smiling Face With Horns"
+    },
+    {
+        "emoji-id": "48",   
+        "emoji":  "🤪",
+        "emoji-name": "Zanny Face"
+    },
+    {
+        "emoji-id": "49",   
+        "emoji":  "🧐",
+        "emoji-name": "Face with monocle"
+    },
+    {
+        "emoji-id": "50",   
+        "emoji":  "🤏",
+        "emoji-name": "Pinched hand"
+    },
+    {
+        "emoji-id": "51",   
+        "emoji":  "🤙",
+        "emoji-name": "Call Me Hand"
+    },
+    {
+        "emoji-id": "52",   
+        "emoji":  "🤳",
+        "emoji-name": "Selfie hand"
+    },
+    {
+        "emoji-id": "53",   
+        "emoji":  "👣",
+        "emoji-name": "Footprint"
+    },
+    {
+        "emoji-id": "54",   
+        "emoji":  "🧔‍♀‍",
+        "emoji-name": "Bearded woman"
+    },
+    {
+        "emoji-id": "55",   
+        "emoji":  "🧑‍🎓",
+        "emoji-name": "Student"
+    },
+    {
+        "emoji-id": "56",   
+        "emoji":  "😂",
+        "emoji-name": "Laughing Face"
+    },
+    {
+        "emoji-id": "57",   
+        "emoji":  "🤩 ",
+        "emoji-name": "Star-Struck"
+    },
+    {
+        "emoji-id": "58",   
+        "emoji":  "🙄",
+        "emoji-name": "Face with Rolling Eyes"
+    },
+    {
+        "emoji-id": "59",   
+        "emoji":  "🐎",
+        "emoji-name": "Horse"
+    },
+    {
+        "emoji-id": "60",   
+        "emoji":  "🦙",
+        "emoji-name": "Llama"
+    },
+    {
+        "emoji-id": "61",   
+        "emoji":  "😏",
+        "emoji-name": "Smirking Face"
+    },
+    {
+        "emoji-id": "62",   
+        "emoji":  "😬",
+        "emoji-name": "Grimacing Face"
+    },
+    {
+        "emoji-id": "63",   
+        "emoji":  "😴",
+        "emoji-name": "Sleeping Face"
+    },
+    {
+        "emoji-id": "64",   
+        "emoji":  "😘",
+        "emoji-name": "Face Blowing a Kiss"
+    },
+    {
+        "emoji-id": "65",   
+        "emoji":  "🤑",
+        "emoji-name": "Money-Mouth Face"
+    },
+    {
+        "emoji-id": "66",   
+        "emoji":  "🏦",
+        "emoji-name": "Bank"
+    },
+]
